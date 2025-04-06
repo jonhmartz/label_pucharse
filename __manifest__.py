@@ -10,6 +10,6 @@
         "views/purchase_label_wizard_view.xml",
         "views/purchase_order_view.xml"
     ],
-    "installable": true,
-    "application": true
+    "installable": True,
+    "application": True
 }
