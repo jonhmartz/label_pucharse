@@ -11,5 +11,5 @@
         "views/purchase_order_view.xml"
     ],
     "installable": True,
-    "application": True
+    "application": False
 }
